@@ -1,0 +1,21 @@
+{
+  "manifest": {
+    "publishingInformation": {
+      "locales": {
+        "en-GB": {
+          "name": "Home v3"
+        }
+      },
+      "isAvailableWorldwide": true,
+      "category": "SMART_HOME"
+    },
+    "apis": {
+      "smartHome": {
+        "endpoint": {
+          "sourceDir": "lambda/smartHome"
+        }
+      }
+    },
+    "manifestVersion": "1.0"
+  }
+}
